@@ -1,0 +1,6 @@
+.idea
+
+backend/.mvn
+
+frontend/.vscode
+frontend/node_modules
